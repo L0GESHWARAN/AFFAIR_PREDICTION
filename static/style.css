@@ -1,0 +1,87 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+
+
+
+label{
+font-weight: bold;
+}
+input{
+width: 200px;
+height: 15px;
+}
+#l1{
+
+margin-left: 4%;
+}
+#l2{
+margin-left: 4%;
+}
+#l3{
+margin-left: 4%;
+}
+#l4{
+margin-left: 4%;
+}
+
+#l5{
+margin-left: 4%;
+}
+#l6{
+margin-left: -10px;
+}
+#l7{
+margin-left: 1%;
+}
+#l8{
+margin-left: 1%;
+}
+#l9{
+margin-left: 2%;
+}
+#l10{
+margin-left: 3%;
+}
+
+
+
+
+#l11{
+margin-left: 4%;
+}
+
+#l12{
+margin-left:3%;
+}
+#l13{
+margin-left:3%;
+}
+
+#l14{
+margin-left:3%;
+}
+
+#l15{
+margin-left:3%;
+}
+#l16{
+margin-left:3%;
+}
+form{
+
+margin-top: 5%;
+}
+body {
+background-color: steelblue;
+}
+
+
+
+
+#submit{
+height: 40px;
+margin-top: 10%;
+margin-left: 40%;
+}
